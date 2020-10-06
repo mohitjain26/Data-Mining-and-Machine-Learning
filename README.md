@@ -2,6 +2,7 @@
 
 During this project, our aim to improve our knowledge in the field of Machine Learning.
 We had used three different types of dataset and run the comparative analysis during the execution, the datasets are- Airbnb, Online News Popularity and Bank Marketing.
+Scripting Language used During the process is R
 
 1. Airbnb- The Berlin Airbnb data were used to run the machine learning model. In this we are going to create a price predictor model considering several factors like area, room type and others. During this implementation Multi Linear Regression and Random Forest Algorithm is used.
 
